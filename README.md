@@ -8,18 +8,30 @@ Pre-launch. Assets land here as they're produced. No design system yet.
 
 ## License
 
-CC-BY-4.0. You may use OpenWyrd marks to indicate that your project implements MOP, runs a MOP host, or relates to the protocol — provided you do not imply endorsement by the project. Attribution on first use:
+**Asset files** in this repo are licensed under [**CC-BY-ND-4.0**](LICENSE) — Attribution + NoDerivatives. You may copy, redistribute, display, and embed the unmodified assets in any medium, commercial or non-commercial, provided you give attribution and do not produce derivative works of the assets themselves.
 
-> Logo by OpenWyrd MOP, CC-BY-4.0.
+The ND clause is intentional. Logos and wordmarks are identity markers; their value is precisely that they are not freely modified. A modified wordmark that still reads as "OpenWyrd" is the trademark threat the policy exists to address.
 
-You may **not** use the marks to:
+Attribution on first use:
 
-- Imply your fork is the canonical project or reference implementation.
-- Co-opt the name for a service that does not implement MOP.
-- Suggest official endorsement of a commercial product.
-
-When in doubt, fork the assets, modify them visibly, and ship under your own name.
+> Logo by OpenWyrd MOP, CC-BY-ND-4.0.
 
 ## Trademark
 
-The OpenWyrd word and logo are not registered trademarks. The CC-BY license governs the asset files; nominative use of the protocol name in technical documentation is not restricted.
+The names and visual marks of the project are also governed by the trademark policy at [`openwyrd/mop` `governance/TRADEMARK.md`](https://github.com/openwyrd/mop/blob/main/governance/TRADEMARK.md). The two layers operate together:
+
+- **The CC-BY-ND-4.0 license** governs the asset files — what you may copy, what you may modify (nothing — that is the ND), and how you must attribute.
+- **The trademark policy** governs the names and visual marks — what counts as nominative use, what implies endorsement, and what is reserved.
+
+Use the marks in good faith to describe a thing that is what you say it is, and you will not hear from us. Use them to imply you are us, or to capture the brand, and you will.
+
+## Examples
+
+| Use | Permitted? |
+|---|---|
+| Embedding the unmodified logo on your project's "Implements OpenWyrd MOP" page, with attribution | Yes |
+| Including the wordmark in a slide deck or article about the protocol | Yes |
+| Restyling the wordmark for your fork's brand | No (ND, also trademark policy §What requires written permission) |
+| Stamping the logo on merchandise without permission | No (trademark policy §What requires written permission) |
+| Using the wordmark in a domain name suggesting your service is OpenWyrd | No (trademark policy) |
+| Forking and visibly renaming the assets to ship under your own brand | Yes — but ship under a different name; see trademark policy §Forks |
